@@ -8,7 +8,8 @@ const Navbar = () => {
         <NavLink to="/">
           <h1>Logo</h1>
         </NavLink>
-        {/* <input
+      
+      {/* <input
           type="search"
           placeholder="Search here...."
           aria-label="copy-button"
@@ -26,6 +27,7 @@ const Navbar = () => {
         >
          
         </input> */}
+      
         <Bars />
         <NavMenu>
           <NavLink to="/about" activeStyle>
@@ -35,7 +37,7 @@ const Navbar = () => {
             Services
           </NavLink>
           <NavLink to="/Contact-US" activeStyle>
-            Contact US
+            Contact us
           </NavLink>
           <NavLink to="/Sign-Up" activeStyle>
             Sign Up

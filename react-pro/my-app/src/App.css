@@ -1,19 +1,8 @@
-*{
+/* *{
     font-family: "sora",sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     
-}
-body{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale; 
-    min-height: 100vh;
-    width: 100%;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-    background:url('./component/Assets/d-03-4.avif') no-repeat;
-    background-size: cover;
-}
+} */
+

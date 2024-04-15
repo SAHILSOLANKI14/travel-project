@@ -5,7 +5,7 @@ import About from './Pages/About'
 import Services from './Pages/Services'
 import Contactus from './Pages/Contactus'
 import SignIn from './Pages/SignIn'
-import SignOut from './Pages/SignOut'
+import SignUp from './Pages/SignUp'
 
  
 function App() {
@@ -18,7 +18,7 @@ function App() {
         <Route path="/about" element={<About/>} />
         <Route path="/Services" element={<Services/>} />
         <Route path="/Contact-US" element={<Contactus/>} />
-        <Route path="/Sign-Up" element={<SignOut/>} />
+        <Route path="/Sign-Up" element={<SignUp/>} />
         <Route path="/Signin" element={<SignIn/>} />
       </Routes>
       </>
