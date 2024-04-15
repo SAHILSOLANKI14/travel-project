@@ -6,7 +6,7 @@ import Services from './Pages/Services'
 import Contactus from './Pages/Contactus'
 import SignIn from './Pages/SignIn'
 import SignOut from './Pages/SignOut'
-import './app.css'
+
  
 function App() {
 
